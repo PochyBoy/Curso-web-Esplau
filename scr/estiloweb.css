@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+div.plomo{
+    background-color: rgb(230, 221, 221);
+    align-content: center;
+    width: 98.5%;
+}
+div.principal{
+    width: 99.8%;
+    height: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 10px solid rgb(230, 221, 221);
+}
+div.imagen{
+    width: 100%;
+    height: 33%;
+    display: flex;
+    flex-direction: row;
+    
+}
+center{
+    width: 100%;
+    object-fit: cover
+}
+img{
+    object-fit: cover;
+    position: relative;
+    
+    
+}
+div.title{
+    text-align: center;
+    
+}
+h1.title1{
+    color: rgb(6, 82, 6);
+}
+span.marron{
+    color: saddlebrown;
+}
+div.texto{
+    display: grid;
+    grid-column: auto;
+}
+div.contenido{
+    display: flex;
+    flex-direction: row
+}
+div.menu{
+    width: 20%;
+    height: 100%;
+    display: grid;
+    grid-column: auto;
+}
+button{
+    background: linear-gradient(360deg, rgb(148, 236, 126), white);
+    border: 0;
+    width: 100%;
+}
