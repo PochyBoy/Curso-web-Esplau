@@ -1,0 +1,89 @@
+body{
+    margin: 50px !important;
+}
+div.premenup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+div.premenu{
+    display: flex;
+    flex-direction: row;
+}
+select{
+    height: 24px;
+}
+div.menuinferior{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h1{
+    color: blue !important;
+}
+select.option{
+    text-align: center;
+    margin: 0px 5px 0px 5px;
+    border: 1.5px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    width: 60px;
+}
+input{
+    border: 1.5px solid rgb(192, 192, 192);
+    border-radius: 5px;
+}
+div.antsi{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+thead.plomo{
+    background-color: rgb(192, 192, 192);
+}
+.fa-eye{
+    color: white;
+    background-color: blue;
+    padding: 3px;
+    border-radius: 5px;
+}
+.fa-pen-to-square{
+    color: white;
+    background-color: green;
+    padding: 3px;
+    border-radius: 5px;
+}
+.fa-trash-can{
+    color: white;
+    background-color: red;
+    padding: 3px;
+    border-radius: 5px;
+}
+button.usuario{
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 3px 10px 3px 10px;
+}
+button.uno{
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 0px 15px 0px 15px;
+
+}
+button.anterior{
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+}
+button.siguiente{
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+}
+td.img{
+    display: flex;
+    flex-direction: row;
+}
